@@ -1,4 +1,4 @@
-# GUI
+# GUI Project
 import tkinter as tk
 from tkinter.filedialog import askopenfilenames, asksaveasfilename
 
