@@ -8,7 +8,9 @@ tk_window.title("MY YOUTUBE VIDEO DOWNLOADER !!")
 Label(tk_window, text="VIDEO DOWNLOADER", font=("Arial", 38, "bold"), bg="black", fg="yellow").pack(padx=5, pady=50)
 
 l_video = StringVar()
+
 Label(tk_window, text=" Enter the link : ", font=("Arial",26,"bold"), bg="light blue", fg="black").place(x=170, y=145)
+
 l_entry = Entry(tk_window, width=50, font=34, textvariable=l_video, bd=4).place(x=20, y=200)
 
 def d_video():
