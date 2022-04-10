@@ -1,5 +1,5 @@
 # GUI-Projects
-Some of the __GUI projects__ in Python language.
+Some of the __GUI projects__ build using Python language.
 
 <hr>
 <div>
